@@ -1,27 +1,27 @@
-## First Name Last Name
+## Emanuel Jose 
 
-### Term Year 
+### 2026 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- intro to data science 
 
-- Course 2
+- analytic geometry and cal 1 
 
-- Course 3
+- python and data analytic  
 
-- Course 4
+- intro to computation and programming 
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gundam 
 
-- Thing 2
+- RC
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Stem 
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/08/30
